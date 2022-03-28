@@ -1,0 +1,47 @@
+Mejor prestigio: 3052
+Pared, de longitud 918, compuesta por los siguientes cuadros:
+
+Cuadro de prestigio 84; longitud 5; proporción 16; colgado en horizontal
+Cuadro de prestigio 98; longitud 6; proporción 16; colgado en horizontal
+Cuadro de prestigio 67; longitud 5; proporción 13; colgado en vertical
+Cuadro de prestigio 64; longitud 5; proporción 12; colgado en vertical
+Cuadro de prestigio 83; longitud 7; proporción 11; colgado en horizontal
+Cuadro de prestigio 78; longitud 7; proporción 11; colgado en horizontal
+Cuadro de prestigio 51; longitud 5; proporción 10; colgado en vertical
+Cuadro de prestigio 95; longitud 11; proporción 8; colgado en vertical
+Cuadro de prestigio 54; longitud 8; proporción 6; colgado en horizontal
+Cuadro de prestigio 43; longitud 7; proporción 6; colgado en vertical
+Cuadro de prestigio 30; longitud 5; proporción 6; colgado en vertical
+Cuadro de prestigio 98; longitud 18; proporción 5; colgado en horizontal
+Cuadro de prestigio 87; longitud 17; proporción 5; colgado en vertical
+Cuadro de prestigio 66; longitud 13; proporción 5; colgado en vertical
+Cuadro de prestigio 55; longitud 13; proporción 4; colgado en vertical
+Cuadro de prestigio 84; longitud 20; proporción 4; colgado en vertical
+Cuadro de prestigio 36; longitud 9; proporción 4; colgado en vertical
+Cuadro de prestigio 30; longitud 8; proporción 3; colgado en horizontal
+Cuadro de prestigio 95; longitud 27; proporción 3; colgado en horizontal
+Cuadro de prestigio 98; longitud 28; proporción 3; colgado en vertical
+Cuadro de prestigio 54; longitud 16; proporción 3; colgado en vertical
+Cuadro de prestigio 94; longitud 28; proporción 3; colgado en vertical
+Cuadro de prestigio 20; longitud 6; proporción 3; colgado en vertical
+Cuadro de prestigio 53; longitud 16; proporción 3; colgado en horizontal
+Cuadro de prestigio 99; longitud 30; proporción 3; colgado en vertical
+Cuadro de prestigio 59; longitud 18; proporción 3; colgado en horizontal
+Cuadro de prestigio 64; longitud 21; proporción 3; colgado en vertical
+Cuadro de prestigio 83; longitud 30; proporción 2; colgado en horizontal
+Cuadro de prestigio 95; longitud 36; proporción 2; colgado en vertical
+Cuadro de prestigio 87; longitud 34; proporción 2; colgado en horizontal
+Cuadro de prestigio 97; longitud 38; proporción 2; colgado en vertical
+Cuadro de prestigio 91; longitud 37; proporción 2; colgado en horizontal
+Cuadro de prestigio 76; longitud 32; proporción 2; colgado en vertical
+Cuadro de prestigio 42; longitud 18; proporción 2; colgado en vertical
+Cuadro de prestigio 82; longitud 37; proporción 2; colgado en vertical
+Cuadro de prestigio 67; longitud 31; proporción 2; colgado en vertical
+Cuadro de prestigio 60; longitud 28; proporción 2; colgado en horizontal
+Cuadro de prestigio 31; longitud 16; proporción 1; colgado en horizontal
+Cuadro de prestigio 23; longitud 12; proporción 1; colgado en horizontal
+Cuadro de prestigio 90; longitud 48; proporción 1; colgado en horizontal
+Cuadro de prestigio 75; longitud 41; proporción 1; colgado en horizontal
+Cuadro de prestigio 94; longitud 52; proporción 1; colgado en horizontal
+Cuadro de prestigio 63; longitud 36; proporción 1; colgado en horizontal
+Cuadro de prestigio 57; longitud 33; proporción 1; colgado en horizontal
